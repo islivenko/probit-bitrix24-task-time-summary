@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 
 // Webhook i ID grupy roboczej projektu PROBIT
-const webhookUrl = 'https://probit.bitrix24.pl/rest/15/36orbmioq126p214/';
+const webhookUrl = '<WEBHOOK>';
 const groupId = 51;
 
 // Pobierz wszystkie zadania z projektu
